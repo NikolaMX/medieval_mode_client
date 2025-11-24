@@ -1,0 +1,63 @@
+{
+    "name": "halloween_theme",
+    "ambient_sound": "/SE/Ambience/Amb_Planet_Earth",
+    "enable_features": true,
+    "base_biome": "/pa/terrain/base/base.json",
+    "biomes": [
+      
+        {
+            "spec": "/pa/terrain/halloween_theme/spooky_forest/spooky_forest.json",
+            "temperature": [-1.0, 0.7, 3],
+            "elevation": [-1, 0.35, 3],
+            "water_distance": [null, null, 1]
+        },
+        {
+            "spec": "/pa/terrain/halloween_theme/spooky_graveyard/spooky_graveyard.json",
+            "temperature": [0.65, 1, 2],
+            "elevation": [0.65, 1, 3],
+            "water_distance": [null, null, 1]
+        },
+        {
+            "spec": "/pa/terrain/halloween_theme/spooky_pumpkin/spooky_pumpkin.json",
+            "temperature": [-0.5, 1, 1],
+            "elevation": [0.35, 0.65, 2],
+            "water_distance": [null, null, 1]
+        }
+    
+    ],
+    "atmosphere": {
+        "color": [0.32, 0.14, 0.50, 0.5],
+        "hdr_intensity": 1.0,
+        "ldr_intensity": 1.0,
+        "density": 10.0
+    },
+    "lighting": {
+        "sun": {
+            "diffuse": [0.7, 0.7, 0.7],
+            "specular": [0.2, 0.2, 0.2],
+            "hdr_intensity": 5.0,
+            "ldr_intensity": 2.0
+        },
+        "ambient": {
+            "hdr_intensity": 0.7,
+            "ldr_intensity": 0.6,
+            "day_intensity_hdr": 0.2,
+            "day_intensity_ldr": 0.3,
+            "day_sky": [0.5, 0.5, 0.5],
+            "day_ground": [1.0, 1.0, 1.0],
+            "night_intensity_hdr": 1.0,
+            "night_intensity_ldr": 1.2,
+            "night_sky": [0.7, 0.5, 1.0],
+            "night_ground": [0.5, 0.5, 0.75]
+        }
+    },
+    "water": {
+        "shader": "planet_liquid_transparent",
+        "textures": {
+            "DiffuseTexture": "/pa/terrain/halloween_theme/halloween_theme_water_diffuse.png",
+            "NormalTexture": "/pa/terrain/halloween_theme/halloween_theme_water_normal.png",
+            "DepthColorTexture": "/pa/terrain/halloween_theme/halloween_theme_water_depth.png",
+            "NoiseTexture": "/pa/terrain/halloween_theme/CloudNoise.papa"
+        }
+    }
+}

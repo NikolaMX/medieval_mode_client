@@ -1,0 +1,16 @@
+{
+    "base_spec": "/pa/terrain/generic/base_feature.json",
+    "display_name": "!LOC:Control Point",
+    "show_strategic_icon": true,
+    "placement_size": [
+        300,
+        300,
+        100
+    ],
+    "model": {
+        "filename": "/pa/terrain/crystal/fbx/gem_blue_04.papa"
+    },
+    "feature_types": [
+        "ControlPoint"
+    ]
+}

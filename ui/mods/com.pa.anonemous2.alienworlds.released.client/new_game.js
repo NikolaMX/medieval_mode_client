@@ -1,0 +1,1 @@
+model.biomes.push('halloween_theme')

@@ -1,0 +1,9 @@
+{
+    "base_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/features/base_pumpkin.json",
+    "model": {
+        "filename": "/pa/terrain/halloween_theme/spooky_pumpkin/fbx/pumpkin_03.papa"
+    },
+    "max_health": 30,
+    "damageable": true,
+    "metal_value": 45
+}

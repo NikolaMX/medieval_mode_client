@@ -1,0 +1,352 @@
+{
+    "name": "spooky_pumpkin",
+    "color": [
+        0.86,
+        0.86,
+        0.86,
+        1
+    ],
+    "base_texture": "/pa/terrain/halloween_theme/spooky_pumpkin/textures/base/spooky_pumpkin_base_diffuse.png",
+    "normal_texture": "/pa/terrain/grass/textures/base/grass_tile_normal.papa",
+    "layers": [
+        {
+            "note": "0",
+            "disable": true,
+            "noise": {
+                "scale": 1.5,
+                "zoom": 1,
+                "type": "simplex"
+            }
+        },
+        {
+            "note": "1",
+            "noise": {
+                "scale": 1,
+                "zoom": 1,
+                "type": "simplex"
+            }
+        },
+        {
+            "note": "2",
+            "noise": {
+                "scale": 3,
+                "zoom": 2,
+                "type": "simplex"
+            }
+        },
+        {
+            "note": "3",
+            "noise": {
+                "scale": 4,
+                "zoom": 10,
+                "type": "simplex"
+            }
+        },
+        {
+            "note": "4",
+            "inherit_noise": true
+        },
+        {
+            "note": "5",
+            "inherit_noise": true
+        },
+       {
+            "note": "6",
+            "noise": {
+                "type": "grid",
+                "gridsize": 1000,
+                "zoom": 20
+            }
+        },
+        {
+            "note": "7",
+            "inherit_noise": true
+        },
+        {
+            "note": "8",
+            "inherit_noise": true
+        },
+        {
+            "note": "9",
+            "inherit_noise": true
+        },
+        {
+            "note": "10",
+            "inherit_noise": true
+        },
+        {
+            "note": "11",
+            "inherit_noise": true
+        },
+        {
+            "note": "12",
+            "inherit_noise": true
+        },
+        {
+            "note": "13",
+            "inherit_noise": true
+        },
+        {
+            "note": "14",
+            "inherit_noise": true
+        },
+        {
+            "note": "15",
+            "inherit_noise": true
+        },
+        {
+            "note": "16",
+            "inherit_noise": true
+        },
+        {
+            "note": "17",
+            "inherit_noise": true
+        }
+    ],
+    "brushes": [],
+    "features": [
+         {
+            "layer": 6,
+            "op": "BO_Add",
+            "noise_range": [
+                0,
+                1
+            ],
+            "cluster_size": 0.1,
+            "cluster_count_range": [
+                1,
+                1
+            ],
+            "biome_distance_range": [
+                null,
+                null
+            ],
+            "fixed_orient": true,
+            "rotation": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "latitude_snap": 50,
+            "longitude_snap": 50,
+            "feature_spec": "/pa/terrain/sandbox/features/unit_cannon_wreckage.json",
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "elevation_range": [
+                0.5,
+                null
+            ]
+        },
+        {
+            "layer": 3,
+            "noise_range": [
+                0.1,
+                0.20
+            ],
+            "cluster_size": 25,
+            "cluster_count_range": [
+                0,
+                1
+            ],
+            "biome_distance_range": [
+                25.0,
+                null
+            ],
+            "feature_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/features/scarecrow.json",
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "layer": 4,
+            "noise_range": [
+                0.1,
+                0.9
+            ],
+            "cluster_size": 25,
+            "cluster_count_range": [
+                4,
+                4
+            ],
+            "biome_distance_range": [
+                25.0,
+                null
+            ],
+            "feature_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/features/pumpkin_01.json",
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "layer": 4,
+            "noise_range": [
+                0.15,
+                0.95
+            ],
+            "cluster_size": 12,
+            "cluster_count_range": [
+                2,
+                2
+            ],
+            "biome_distance_range": [
+                15.0,
+                null
+            ],
+            "feature_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/features/pumpkin_02.json",
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "layer": 4,
+            "noise_range": [
+                0.20,
+                0.5
+            ],
+            "cluster_size": 16,
+            "cluster_count_range": [
+                2,
+                2
+            ],
+            "biome_distance_range": [
+                5.0,
+                null
+            ],
+            "feature_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/features/pumpkin_03.json",
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "layer": 4,
+            "noise_range": [
+                0.8,
+                0.95
+            ],
+            "cluster_size": 10,
+            "cluster_count_range": [
+                3,
+                3
+            ],
+            "biome_distance_range": [
+                25.0,
+                null
+            ],
+            "feature_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/features/pumpkin_04.json",
+            "scale_variation": 0.25,
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "layer": 4,
+            "noise_range": [
+                0.15,
+                0.5
+            ],
+            "cluster_size": 10,
+            "cluster_count_range": [
+                2,
+                2
+            ],
+            "biome_distance_range": [
+                15.0,
+                null
+            ],
+            "feature_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/features/pumpkin_05.json",
+            "scale_variation": 0.25,
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "layer": 4,
+            "noise_range": [
+                0.55,
+                0.6
+            ],
+            "cluster_size": 15,
+            "cluster_count_range": [
+                4,
+                4
+            ],
+            "biome_distance_range": [
+                5.0,
+                null
+            ],
+            "feature_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/features/pumpkin_06.json",
+            "scale_variation": 0.25,
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "decals": [
+        {
+            "layer": 8,
+            "bias": 100,
+            "noise_range": [
+                0.0,
+                1.0
+            ],
+            "pos_range": [
+                0.0,
+                0.0
+            ],
+            "elevation_range": [
+                -1.0,
+                1.0
+            ],
+            "scale": [
+                50,
+                50,
+                1
+            ],
+            "scale_variation": 0,
+            "count": 1,
+            "material_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/decals/spooky_pumpkin_decal_01.json"
+        },
+        {
+            "layer": 5,
+            "bias": 100,
+            "noise_range": [
+                0.0,
+                1.0
+            ],
+            "pos_range": [
+                0.0,
+                0.0
+            ],
+            "elevation_range": [
+                -1.0,
+                1.0
+            ],
+            "scale": [
+                65,
+                65,
+                1
+            ],
+            "scale_variation": 0.25,
+            "count": 1,
+            "material_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/decals/spooky_pumpkin_decal_02.json"
+        }
+    ]
+}

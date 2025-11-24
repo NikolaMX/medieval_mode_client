@@ -1,0 +1,5 @@
+{
+    "diffuse": "/pa/terrain/halloween_theme/spooky_pumpkin/textures/base/spooky_pumpkin_decal_02.png",
+    "normal": "/pa/terrain/grass/textures/base/grass_decal_02_normal.papa",
+    "material": "/pa/terrain/generic/decal_null_material.papa"
+}

@@ -1,0 +1,4 @@
+texture-format-noalpha: rgb
+texture-format-alpha: rgba
+texture-generate-mipmaps: false
+srgb-texname-expression: .*

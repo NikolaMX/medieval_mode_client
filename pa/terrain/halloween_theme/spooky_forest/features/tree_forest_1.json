@@ -1,0 +1,9 @@
+{
+    "base_spec": "/pa/terrain/halloween_theme/spooky_forest/features/base_forest.json",
+    "model": {
+        "filename": "/pa/terrain/halloween_theme/spooky_forest/fbx/tree_forest_1.papa"
+    },
+    "max_health": 30,
+    "damageable": true,
+    "metal_value": 45
+}

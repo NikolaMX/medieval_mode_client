@@ -1,0 +1,9 @@
+{
+    "base_spec": "/pa/terrain/halloween_theme/spooky_graveyard/features/base_gravestone.json",
+    "model": {
+        "filename": "/pa/terrain/halloween_theme/spooky_graveyard/fbx/gravestone_2.papa"
+    },
+    "max_health": 50,
+    "damageable": true,
+    "metal_value": 50
+}

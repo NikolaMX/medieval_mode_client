@@ -1,0 +1,14 @@
+{
+    "base_spec": "/pa/terrain/generic/base_feature.json",
+    "display_name": "!LOC:Pumpkin",
+    "damageable": true,
+    "reclaimable": true,
+    "path_cost": 2.0,
+    "burnable": {
+        "resistance": 75,
+        "burn_duration": 12,
+        "damage": 2.2,
+        "damage_radius": 20,
+        "spread_chance": 0.3
+    }
+}
