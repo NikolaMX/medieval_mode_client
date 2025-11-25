@@ -1,8 +1,8 @@
 {
     "name": "Superbowl - Haunted Mayhem Beta",
-    "description": "Landmass, Open field, Chokepoints, Gas",
-    "creator": "WPMarshall",
-    "version": "1.0.2",
+    "description": "Landmass, Open field, Chokepoints",
+    "creator": "NikolaMX",
+    "version": "1.2",
     "planets": [
         {
             "name": "Superbowl",

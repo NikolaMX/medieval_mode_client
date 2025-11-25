@@ -1,8 +1,8 @@
 {
     "name": "Alloy - Haunted Mayhem Beta",
     "description": "Landmass, Open-field, Large Spawn | Suitable for 2 shared teams | Will you risk a start closer to a particular part of the map, or play it safe at the poles?",
-    "creator": "WPMarshall",
-    "version": "1.1.0",
+    "creator": "NikolaMX",
+    "version": "1.2",
     "planets": [
         {
             "name": "Alloy",

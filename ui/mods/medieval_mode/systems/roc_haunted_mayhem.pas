@@ -1,5 +1,7 @@
 {
     "name": "Roc - Haunted Mayhem Beta",
+    "creator": "NikolaMX",
+    "version": "1.4",
     "planets": [
         {
             "name": "Cross",
