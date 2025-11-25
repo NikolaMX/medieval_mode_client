@@ -1,0 +1,42 @@
+<div id="event-container" data-bind="visible: isReady">
+    <!-- Collapse/Expand Button -->
+    <div class="collapse-toggle" data-bind="click: toggleCollapse, css: { 'collapsed': isCollapsed }">
+        <span data-bind="text: isCollapsed() ? 'Gamemode Info' : 'Collapse'"></span>
+        <span class="toggle-icon" data-bind="css: { 'toggled': isCollapsed }"></span>
+    </div>
+
+    <!-- Main Content - Hidden when collapsed -->
+    <div class="event-content" data-bind="css: { 'hidden': isCollapsed }">
+        <div class="event-header">
+            <img src="coui://ui/mods/eventboard/img/pa-tourney-king-bg.png" width="400px">
+        </div>
+        <div class="event-text">
+            <h1>Haunted Mayhem</h1>
+            <h3>Welcome to the Haunted Realms!</h3>
+            <p>Summon your courage (and friends) and join the battle! Command one of 60+ new cursed units and fight beneath the blood moon.</p>
+            <p>Want to play but don't know how or need a teammate? Join the gamemode discord!</p>
+            <p>Enjoying the gamemode and want to see more units and factions added to it? Donate to the Patreon</p>
+        </div>
+        <div class="button-set">
+            <a href="#" onclick="openExternalLink('https://miro.com/app/board/uXjVJ77eN2U=/?share_link_id=611103631461')" class="button">
+                Learn how to play
+            </a>
+            <a href="#" onclick="openExternalLink('https://discord.gg/4f2nqDkQz9')" class="button">
+                Join the Haunted Discord
+            </a>
+            <a href="#" onclick="openExternalLink('https://www.patreon.com/hauntedmayhem')" class="button">
+                Support us on Patreon
+            </a>
+        </div>
+        <div class="countdown" style="text-align: center; font-size: 22px; font-weight: bold; color: #ff7518; text-shadow: 0 0 10px #ff4000;">
+            The Undead Await You!
+        </div>
+    </div>
+
+    <!-- Collapsed View - Only visible when collapsed -->
+    <div class="collapsed-view" data-bind="visible: isCollapsed">
+        <div class="collapsed-title" style="font-weight: bold; font-size: 18px;">
+            Haunted Mayhem
+        </div>
+    </div>
+</div>
