@@ -16,10 +16,24 @@
         ]
     },
     "category": [
-        "biomes"
+        "biomes",
+	    "map",
+	    "pack",
+	    "maps",
+	    "system",
+	    "planets",
+	    "planet",
+	    "systems"
+    
     ],
     "authors": [
-        "Anonemous2"
+        "NikolaMX"
+    ],
+    "load_planet": [
+        "coui://ui/mods/medieval_mode/maplist.js"
+    ],
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
     ],
 	"priority": 100
 }
