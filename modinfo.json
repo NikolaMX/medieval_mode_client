@@ -2,15 +2,15 @@
     "author": "NikolaMX",
     "build": "109959",
     "context": "client",
-    "date": "2020-10-16",
+    "date": "2025-12-15",
     "display_name": "Haunted Mayhem Biomes + Client",
     "description": "Adds in addition biomes, that can be used when creating systems.",
-    "forum": "https://forums.uberent.com/threads/wip-biomes-mod-alienworlds.73119/",
+    "forum": "",
     "identifier": "medieval_mode_client_dev",
     "signature": "not yet implemented",
     "version": "1.2",
     "enabled": true,
-    "icon": "https://forums.planetaryannihilation.com/data/attachments/28/28114-baac9cdf41167be6585aeb6d1b66181f.jpg",
+    "icon": "https://i.imgur.com/jtTEm7Y.gif",
     "scenes": {
         "system_editor": [
             "coui://ui/mods/com.pa.anonemous2.alienworlds.released.client/new_game.js"
