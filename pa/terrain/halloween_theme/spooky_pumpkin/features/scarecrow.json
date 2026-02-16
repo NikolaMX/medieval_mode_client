@@ -1,9 +1,0 @@
-{
-    "base_spec": "/pa/terrain/halloween_theme/spooky_pumpkin/features/base_pumpkin.json",
-    "model": {
-        "filename": "/pa/terrain/halloween_theme/spooky_pumpkin/fbx/scarecrow.papa"
-    },
-    "max_health": 300,
-    "damageable": true,
-    "metal_value": 400
-}
