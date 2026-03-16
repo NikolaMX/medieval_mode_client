@@ -1985,7 +1985,7 @@
                 "metalClusters": 0,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
-                "biome": "halloween_theme",
+                "biome": "moon",
                 "symmetryType": "terrain and CSG",
                 "symmetricalMetal": true,
                 "symmetricalStarts": true,

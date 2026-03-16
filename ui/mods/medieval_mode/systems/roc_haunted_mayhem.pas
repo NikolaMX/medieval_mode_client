@@ -1,7 +1,5 @@
 {
-    "name": "Roc - Haunted Mayhem Beta",
-    "creator": "NikolaMX",
-    "version": "1.4",
+    "name": "Roc - HM - 1v1-5v5",
     "planets": [
         {
             "name": "Cross",
@@ -20,7 +18,17 @@
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 655.0618286132812,
+                    "scale": [
+                        1.008460521697998,
+                        1.008460521697998,
+                        1.008460521697998
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         507.4735107421875,
@@ -41,18 +49,8 @@
                         0.5927034020423889,
                         385.00006103515625
                     ],
-                    "scale": [
-                        1.008460521697998,
-                        1.008460521697998,
-                        1.008460521697998
-                    ],
                     "rotation": 0.3765091598033905,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 655.0618286132812,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -64,12 +62,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 652.1237182617188,
+                    "scale": [
+                        0.6867654323577881,
+                        0.6867654323577881,
+                        0.6867654323577881
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         489.3648681640625,
@@ -90,18 +104,8 @@
                         0.36197808384895325,
                         343.71923828125
                     ],
-                    "scale": [
-                        0.6867654323577881,
-                        0.6867654323577881,
-                        0.6867654323577881
-                    ],
                     "rotation": 4.263723850250244,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 652.1237182617188,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -113,12 +117,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 655.2784423828125,
+                    "scale": [
+                        0.7921545505523682,
+                        0.7921545505523682,
+                        0.7921545505523682
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         616.3819580078125,
@@ -139,18 +159,8 @@
                         0.2651002109050751,
                         219.29364013671875
                     ],
-                    "scale": [
-                        0.7921545505523682,
-                        0.7921545505523682,
-                        0.7921545505523682
-                    ],
                     "rotation": 5.307458400726318,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 655.2784423828125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -162,12 +172,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 654.3005981445312,
+                    "scale": [
+                        1.0380727052688599,
+                        1.0380727052688599,
+                        1.0380727052688599
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -642.4202880859375,
@@ -188,18 +214,8 @@
                         0.1755356639623642,
                         110.64070129394531
                     ],
-                    "scale": [
-                        1.0380727052688599,
-                        1.0380727052688599,
-                        1.0380727052688599
-                    ],
                     "rotation": 1.6920857429504395,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 654.3005981445312,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -211,12 +227,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 653.9515380859375,
+                    "scale": [
+                        1.3356972932815552,
+                        1.3356972932815552,
+                        1.3356972932815552
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         197.93344116210938,
@@ -237,18 +269,8 @@
                         0.5021849870681763,
                         245.86756896972656
                     ],
-                    "scale": [
-                        1.3356972932815552,
-                        1.3356972932815552,
-                        1.3356972932815552
-                    ],
                     "rotation": 5.870405197143555,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 653.9515380859375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -260,12 +282,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 651.8556518554688,
+                    "scale": [
+                        0.726595401763916,
+                        0.726595401763916,
+                        0.726595401763916
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -42.556365966796875,
@@ -286,18 +324,8 @@
                         0.25747519731521606,
                         230.9905548095703
                     ],
-                    "scale": [
-                        0.726595401763916,
-                        0.726595401763916,
-                        0.726595401763916
-                    ],
                     "rotation": 0.42748555541038513,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.8556518554688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -309,12 +337,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 649.9609985351562,
+                    "scale": [
+                        1.1830360889434814,
+                        1.1830360889434814,
+                        1.1830360889434814
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         431.8980712890625,
@@ -335,18 +379,8 @@
                         0.1760401576757431,
                         96.71660614013672
                     ],
-                    "scale": [
-                        1.1830360889434814,
-                        1.1830360889434814,
-                        1.1830360889434814
-                    ],
                     "rotation": 2.7633488178253174,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 649.9609985351562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -358,12 +392,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 654.3139038085938,
+                    "scale": [
+                        1.2327462434768677,
+                        1.2327462434768677,
+                        1.2327462434768677
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -607.36083984375,
@@ -384,18 +434,8 @@
                         0.19116035103797913,
                         101.4636001586914
                     ],
-                    "scale": [
-                        1.2327462434768677,
-                        1.2327462434768677,
-                        1.2327462434768677
-                    ],
                     "rotation": 5.802216529846191,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 654.3139038085938,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -407,12 +447,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 646.9307861328125,
+                    "scale": [
+                        1.2135896682739258,
+                        1.2135896682739258,
+                        1.2135896682739258
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         414.2933654785156,
@@ -433,18 +489,8 @@
                         -0.0059743402525782585,
                         -3.1847541332244873
                     ],
-                    "scale": [
-                        1.2135896682739258,
-                        1.2135896682739258,
-                        1.2135896682739258
-                    ],
                     "rotation": 5.528690814971924,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 646.9307861328125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -456,12 +502,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 653.5748901367188,
+                    "scale": [
+                        0.6147902011871338,
+                        0.6147902011871338,
+                        0.6147902011871338
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         543.0318603515625,
@@ -482,18 +544,8 @@
                         0.18152901530265808,
                         192.98095703125
                     ],
-                    "scale": [
-                        0.6147902011871338,
-                        0.6147902011871338,
-                        0.6147902011871338
-                    ],
                     "rotation": 4.100200653076172,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 653.5748901367188,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -505,12 +557,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 651.8787231445312,
+                    "scale": [
+                        0.7228668332099915,
+                        0.7228668332099915,
+                        0.7228668332099915
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         391.71002197265625,
@@ -531,18 +599,8 @@
                         0.26188787817955017,
                         236.16954040527344
                     ],
-                    "scale": [
-                        0.7228668332099915,
-                        0.7228668332099915,
-                        0.7228668332099915
-                    ],
                     "rotation": 3.600811719894409,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.8787231445312,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -554,12 +612,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 655.0618286132812,
+                    "scale": [
+                        1.008460521697998,
+                        1.008460521697998,
+                        1.008460521697998
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         507.4735107421875,
@@ -580,18 +654,8 @@
                         -0.5927034020423889,
                         -385.00006103515625
                     ],
-                    "scale": [
-                        1.008460521697998,
-                        1.008460521697998,
-                        1.008460521697998
-                    ],
                     "rotation": 0.3765091598033905,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 655.0618286132812,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -603,12 +667,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 652.1237182617188,
+                    "scale": [
+                        0.6867654323577881,
+                        0.6867654323577881,
+                        0.6867654323577881
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         489.3648681640625,
@@ -629,18 +709,8 @@
                         -0.36197808384895325,
                         -343.71923828125
                     ],
-                    "scale": [
-                        0.6867654323577881,
-                        0.6867654323577881,
-                        0.6867654323577881
-                    ],
                     "rotation": 4.263723850250244,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 652.1237182617188,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -652,12 +722,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 655.2784423828125,
+                    "scale": [
+                        0.7921545505523682,
+                        0.7921545505523682,
+                        0.7921545505523682
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         616.3819580078125,
@@ -678,18 +764,8 @@
                         -0.2651002109050751,
                         -219.29364013671875
                     ],
-                    "scale": [
-                        0.7921545505523682,
-                        0.7921545505523682,
-                        0.7921545505523682
-                    ],
                     "rotation": 5.307458400726318,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 655.2784423828125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -701,12 +777,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 654.3005981445312,
+                    "scale": [
+                        1.0380727052688599,
+                        1.0380727052688599,
+                        1.0380727052688599
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -642.4202880859375,
@@ -727,18 +819,8 @@
                         -0.1755356639623642,
                         -110.64070129394531
                     ],
-                    "scale": [
-                        1.0380727052688599,
-                        1.0380727052688599,
-                        1.0380727052688599
-                    ],
                     "rotation": 1.6920857429504395,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 654.3005981445312,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -750,12 +832,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 653.9515380859375,
+                    "scale": [
+                        1.3356972932815552,
+                        1.3356972932815552,
+                        1.3356972932815552
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         197.93344116210938,
@@ -776,18 +874,8 @@
                         -0.5021849870681763,
                         -245.86756896972656
                     ],
-                    "scale": [
-                        1.3356972932815552,
-                        1.3356972932815552,
-                        1.3356972932815552
-                    ],
                     "rotation": 5.870405197143555,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 653.9515380859375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -799,12 +887,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 651.8556518554688,
+                    "scale": [
+                        0.726595401763916,
+                        0.726595401763916,
+                        0.726595401763916
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -42.556365966796875,
@@ -825,18 +929,8 @@
                         -0.25747519731521606,
                         -230.99053955078125
                     ],
-                    "scale": [
-                        0.726595401763916,
-                        0.726595401763916,
-                        0.726595401763916
-                    ],
                     "rotation": 0.42748555541038513,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.8556518554688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -848,12 +942,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 649.9609985351562,
+                    "scale": [
+                        1.1830360889434814,
+                        1.1830360889434814,
+                        1.1830360889434814
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         431.8980712890625,
@@ -874,18 +984,8 @@
                         -0.1760401576757431,
                         -96.71660614013672
                     ],
-                    "scale": [
-                        1.1830360889434814,
-                        1.1830360889434814,
-                        1.1830360889434814
-                    ],
                     "rotation": 2.7633488178253174,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 649.9609985351562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -897,12 +997,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 654.3139038085938,
+                    "scale": [
+                        1.2327462434768677,
+                        1.2327462434768677,
+                        1.2327462434768677
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -607.36083984375,
@@ -923,18 +1039,8 @@
                         -0.19116035103797913,
                         -101.46359252929688
                     ],
-                    "scale": [
-                        1.2327462434768677,
-                        1.2327462434768677,
-                        1.2327462434768677
-                    ],
                     "rotation": 5.802216529846191,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 654.3139038085938,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -946,12 +1052,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 646.9307861328125,
+                    "scale": [
+                        1.2135896682739258,
+                        1.2135896682739258,
+                        1.2135896682739258
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         414.2933654785156,
@@ -972,18 +1094,8 @@
                         0.0059743402525782585,
                         3.1847541332244873
                     ],
-                    "scale": [
-                        1.2135896682739258,
-                        1.2135896682739258,
-                        1.2135896682739258
-                    ],
                     "rotation": 5.528690814971924,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 646.9307861328125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -995,12 +1107,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 653.5748901367188,
+                    "scale": [
+                        0.6147902011871338,
+                        0.6147902011871338,
+                        0.6147902011871338
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         543.0318603515625,
@@ -1021,18 +1149,8 @@
                         -0.18152901530265808,
                         -192.98095703125
                     ],
-                    "scale": [
-                        0.6147902011871338,
-                        0.6147902011871338,
-                        0.6147902011871338
-                    ],
                     "rotation": 4.100200653076172,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 653.5748901367188,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1044,12 +1162,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 651.8787231445312,
+                    "scale": [
+                        0.7228668332099915,
+                        0.7228668332099915,
+                        0.7228668332099915
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         391.71002197265625,
@@ -1070,18 +1204,8 @@
                         -0.26188787817955017,
                         -236.16952514648438
                     ],
-                    "scale": [
-                        0.7228668332099915,
-                        0.7228668332099915,
-                        0.7228668332099915
-                    ],
                     "rotation": 3.600811719894409,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.8787231445312,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1093,12 +1217,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
-                    "height": 650.6030883789062,
+                    "scale": [
+                        0.690000057220459,
+                        0.690000057220459,
+                        0.690000057220459
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -164.17501831054688,
@@ -1119,18 +1259,8 @@
                         0.40355050563812256,
                         380.5089416503906
                     ],
-                    "scale": [
-                        0.690000057220459,
-                        0.690000057220459,
-                        0.690000057220459
-                    ],
                     "rotation": 0.3199999928474426,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 650.6030883789062,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1142,12 +1272,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": true,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
-                    "height": 650.6030883789062,
+                    "scale": [
+                        0.690000057220459,
+                        0.690000057220459,
+                        0.690000057220459
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -164.17501831054688,
@@ -1168,18 +1314,8 @@
                         -0.40355050563812256,
                         -380.5089416503906
                     ],
-                    "scale": [
-                        0.690000057220459,
-                        0.690000057220459,
-                        0.690000057220459
-                    ],
                     "rotation": 0.3199999928474426,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 650.6030883789062,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1191,12 +1327,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": true,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
-                    "height": 641.557861328125,
+                    "scale": [
+                        1.3999996185302734,
+                        1.3999996185302734,
+                        1.3999996185302734
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         227.28628540039062,
@@ -1207,28 +1359,18 @@
                         1.0633444786071777,
                         0.7652350068092346,
                         0.4936728775501251,
-                        226.22842407226562,
+                        227.2863006591797,
                         -0.6503720879554749,
                         0.10691040754318237,
                         1.235145926475525,
-                        566.0126953125,
+                        568.659423828125,
                         0.6374273896217346,
                         -1.1674692630767822,
                         0.4366930425167084,
-                        200.11709594726562
-                    ],
-                    "scale": [
-                        1.3999996185302734,
-                        1.3999996185302734,
-                        1.3999996185302734
+                        201.0528564453125
                     ],
                     "rotation": -0.8799971342086792,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 644.557861328125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1240,12 +1382,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
-                    "height": 641.557861328125,
+                    "scale": [
+                        1.3999996185302734,
+                        1.3999996185302734,
+                        1.3999996185302734
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         227.28628540039062,
@@ -1256,28 +1414,18 @@
                         1.0633444786071777,
                         0.7652350068092346,
                         0.4936728775501251,
-                        226.22840881347656,
+                        227.2863006591797,
                         -0.6503720879554749,
                         0.10691040754318237,
                         1.235145926475525,
-                        566.0126953125,
+                        568.659423828125,
                         -0.6374273896217346,
                         1.1674692630767822,
                         -0.4366930425167084,
-                        -200.11709594726562
-                    ],
-                    "scale": [
-                        1.3999996185302734,
-                        1.3999996185302734,
-                        1.3999996185302734
+                        -201.05284118652344
                     ],
                     "rotation": -0.8799971342086792,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 644.557861328125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1289,12 +1437,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
-                    "height": 651.6669921875,
+                    "scale": [
+                        1.4199992418289185,
+                        1.4199992418289185,
+                        1.4199992418289185
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         358.6328125,
@@ -1315,18 +1479,8 @@
                         1.1503547430038452,
                         527.9215698242188
                     ],
-                    "scale": [
-                        1.4199992418289185,
-                        1.4199992418289185,
-                        1.4199992418289185
-                    ],
                     "rotation": 1.3799992799758911,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.6669921875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1338,12 +1492,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": true,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
-                    "height": 651.6669921875,
+                    "scale": [
+                        1.4199992418289185,
+                        1.4199992418289185,
+                        1.4199992418289185
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         358.6328125,
@@ -1364,18 +1534,8 @@
                         -1.1503547430038452,
                         -527.9215698242188
                     ],
-                    "scale": [
-                        1.4199992418289185,
-                        1.4199992418289185,
-                        1.4199992418289185
-                    ],
                     "rotation": 1.3799992799758911,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.6669921875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1387,12 +1547,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": true,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
-                    "height": 646.7589111328125,
+                    "scale": [
+                        1.4199992418289185,
+                        1.4199992418289185,
+                        1.4199992418289185
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -393.98284912109375,
@@ -1413,18 +1589,8 @@
                         1.1254384517669678,
                         512.5969848632812
                     ],
-                    "scale": [
-                        1.4199992418289185,
-                        1.4199992418289185,
-                        1.4199992418289185
-                    ],
                     "rotation": -0.8999996781349182,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 646.7589111328125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1436,12 +1602,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": true,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
-                    "height": 646.7589111328125,
+                    "scale": [
+                        1.4199992418289185,
+                        1.4199992418289185,
+                        1.4199992418289185
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -393.98284912109375,
@@ -1462,18 +1644,8 @@
                         -1.1254384517669678,
                         -512.5969848632812
                     ],
-                    "scale": [
-                        1.4199992418289185,
-                        1.4199992418289185,
-                        1.4199992418289185
-                    ],
                     "rotation": -0.8999996781349182,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 646.7589111328125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1485,12 +1657,138 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": true,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "scale": [
+                        2.039999008178711,
+                        2.039999008178711,
+                        2.039999008178711
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "op": "BO_Subtract",
+                    "position": [
+                        -207.8636932373047,
+                        610.9761352539062,
+                        -2.824615478515625
+                    ],
+                    "transform": [
+                        1.8274447917938232,
+                        0.624763011932373,
+                        -0.6570484638214111,
+                        -207.86370849609375,
+                        0.624763011932373,
+                        0.20362581312656403,
+                        1.931269884109497,
+                        610.9761352539062,
+                        0.6570484638214111,
+                        -1.931269884109497,
+                        -0.008928361348807812,
+                        -2.8245744705200195
+                    ],
+                    "rotation": 0,
+                    "height": 645.3736572265625,
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": false,
+                    "twinId": 26,
+                    "pathable": true,
+                    "flooded": false,
+                    "mergeable": true,
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "scale": [
+                        2.039999008178711,
+                        2.039999008178711,
+                        2.039999008178711
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "op": "BO_Subtract",
+                    "position": [
+                        -207.8636932373047,
+                        610.9761352539062,
+                        -2.824615478515625
+                    ],
+                    "transform": [
+                        1.8274447917938232,
+                        0.624763011932373,
+                        -0.6570484638214111,
+                        -207.86370849609375,
+                        0.624763011932373,
+                        0.20362581312656403,
+                        1.931269884109497,
+                        610.9761352539062,
+                        -0.6570484638214111,
+                        1.931269884109497,
+                        0.008928361348807812,
+                        2.8245744705200195
+                    ],
+                    "rotation": 0,
+                    "height": 645.3736572265625,
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": true,
+                    "twinId": 26,
+                    "pathable": true,
+                    "flooded": false,
+                    "mergeable": true,
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
-                    "height": 641.4848022460938,
+                    "scale": [
+                        1.9999990463256836,
+                        1.9999990463256836,
+                        1.9999990463256836
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         -1.942901611328125,
@@ -1501,28 +1799,18 @@
                         -1.9999891519546509,
                         -0.0018082724418491125,
                         -0.006048082839697599,
-                        -1.9398775100708008,
+                        -1.9429014921188354,
                         -0.005599097814410925,
                         -0.3768019378185272,
                         1.9641754627227783,
-                        629.9946899414062,
+                        630.9767456054688,
                         -0.00291534885764122,
                         1.964182734489441,
                         0.3767949938774109,
-                        120.85418701171875
-                    ],
-                    "scale": [
-                        1.9999990463256836,
-                        1.9999990463256836,
-                        1.9999990463256836
+                        121.04258728027344
                     ],
                     "rotation": -3.139997720718384,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 642.4848022460938,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1534,12 +1822,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
-                    "height": 641.4848022460938,
+                    "scale": [
+                        1.9999990463256836,
+                        1.9999990463256836,
+                        1.9999990463256836
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         -1.942901611328125,
@@ -1550,28 +1854,18 @@
                         -1.9999891519546509,
                         -0.0018082724418491125,
                         -0.006048082839697599,
-                        -1.9398775100708008,
+                        -1.942901372909546,
                         -0.005599097814410925,
                         -0.3768019378185272,
                         1.9641754627227783,
-                        629.9946899414062,
+                        630.9767456054688,
                         0.00291534885764122,
                         -1.964182734489441,
                         -0.3767949938774109,
-                        -120.85418701171875
-                    ],
-                    "scale": [
-                        1.9999990463256836,
-                        1.9999990463256836,
-                        1.9999990463256836
+                        -121.04258728027344
                     ],
                     "rotation": -3.139997720718384,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 642.4848022460938,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1583,12 +1877,248 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "scale": [
+                        1.9599990844726562,
+                        1.9599990844726562,
+                        1.9599990844726562
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "op": "BO_Add",
+                    "position": [
+                        -486.46441650390625,
+                        377.92291259765625,
+                        199.189208984375
+                    ],
+                    "transform": [
+                        0.8369936347007751,
+                        -0.9859572649002075,
+                        -1.4727275371551514,
+                        -486.4644775390625,
+                        1.5398494005203247,
+                        -0.40178629755973816,
+                        1.1441278457641602,
+                        377.9229736328125,
+                        -0.8774408102035522,
+                        -1.6456161737442017,
+                        0.6030272841453552,
+                        199.1891632080078
+                    ],
+                    "rotation": 1.400167465209961,
+                    "height": 647.417724609375,
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": false,
+                    "twinId": 30,
+                    "pathable": false,
+                    "flooded": false,
+                    "mergeable": false,
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "scale": [
+                        1.9599990844726562,
+                        1.9599990844726562,
+                        1.9599990844726562
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "op": "BO_Add",
+                    "position": [
+                        -486.46441650390625,
+                        377.92291259765625,
+                        199.189208984375
+                    ],
+                    "transform": [
+                        0.8369936347007751,
+                        -0.9859572649002075,
+                        -1.4727275371551514,
+                        -486.4644775390625,
+                        1.5398494005203247,
+                        -0.40178629755973816,
+                        1.1441278457641602,
+                        377.9229736328125,
+                        0.8774408102035522,
+                        1.6456161737442017,
+                        -0.6030272841453552,
+                        -199.1891632080078
+                    ],
+                    "rotation": 1.400167465209961,
+                    "height": 647.417724609375,
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": true,
+                    "twinId": 30,
+                    "pathable": false,
+                    "flooded": false,
+                    "mergeable": false,
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
+                    "scale": [
+                        1.7599992752075195,
+                        1.7599992752075195,
+                        1.7599992752075195
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "op": "BO_Add",
+                    "position": [
+                        -354.01617431640625,
+                        530.9882202148438,
+                        114.03064727783203
+                    ],
+                    "transform": [
+                        1.4686154127120972,
+                        -0.13061529397964478,
+                        -0.9610958695411682,
+                        -354.01611328125,
+                        0.9687142372131348,
+                        0.2848415672779083,
+                        1.4415459632873535,
+                        530.9881591796875,
+                        0.04856371879577637,
+                        -1.7318780422210693,
+                        0.3095749318599701,
+                        114.0307846069336
+                    ],
+                    "rotation": 0.5600001811981201,
+                    "height": 648.2892456054688,
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": false,
+                    "twinId": 31,
+                    "pathable": false,
+                    "flooded": false,
+                    "mergeable": false,
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
+                    "scale": [
+                        1.7599992752075195,
+                        1.7599992752075195,
+                        1.7599992752075195
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "op": "BO_Add",
+                    "position": [
+                        -354.01617431640625,
+                        530.9882202148438,
+                        114.03064727783203
+                    ],
+                    "transform": [
+                        1.4686154127120972,
+                        -0.13061529397964478,
+                        -0.9610958695411682,
+                        -354.0161437988281,
+                        0.9687142372131348,
+                        0.2848415672779083,
+                        1.4415459632873535,
+                        530.9881591796875,
+                        -0.04856371879577637,
+                        1.7318780422210693,
+                        -0.3095749318599701,
+                        -114.03079223632812
+                    ],
+                    "rotation": 0.5600001811981201,
+                    "height": 648.2892456054688,
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": true,
+                    "twinId": 31,
+                    "pathable": false,
+                    "flooded": false,
+                    "mergeable": false,
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 651.485107421875,
+                    "scale": [
+                        1.008460521697998,
+                        1.008460521697998,
+                        1.008460521697998
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -570.445068359375,
@@ -1609,18 +2139,8 @@
                         0.43324294686317444,
                         279.88336181640625
                     ],
-                    "scale": [
-                        1.008460521697998,
-                        1.008460521697998,
-                        1.008460521697998
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.485107421875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1632,12 +2152,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 651.485107421875,
+                    "scale": [
+                        1.008460521697998,
+                        1.008460521697998,
+                        1.008460521697998
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -570.445068359375,
@@ -1658,18 +2194,8 @@
                         -0.43324294686317444,
                         -279.88336181640625
                     ],
-                    "scale": [
-                        1.008460521697998,
-                        1.008460521697998,
-                        1.008460521697998
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.485107421875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1681,12 +2207,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
-                    "height": 649.7769775390625,
+                    "scale": [
+                        2.5399985313415527,
+                        2.5399985313415527,
+                        2.5399985313415527
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         -603.853271484375,
@@ -1696,29 +2238,19 @@
                     "transform": [
                         -0.3820694386959076,
                         -0.8565880060195923,
-                        -0.13010570406913757,
+                        -2.3604815006256104,
                         -603.8533325195312,
                         2.511061668395996,
                         -0.1174156665802002,
-                        -0.02005390077829361,
+                        -0.36383387446403503,
                         -93.07520294189453,
                         0.013581961393356323,
                         -2.3883180618286133,
-                        0.04764927178621292,
+                        0.8644911646842957,
                         221.1522674560547
                     ],
-                    "scale": [
-                        2.5399985313415527,
-                        2.5399985313415527,
-                        0.1400003731250763
-                    ],
                     "rotation": 4.2325524541220397e+21,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 649.7769775390625,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1730,12 +2262,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
-                    "height": 649.7769775390625,
+                    "scale": [
+                        2.5399985313415527,
+                        2.5399985313415527,
+                        2.5399985313415527
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         -603.853271484375,
@@ -1745,29 +2293,19 @@
                     "transform": [
                         -0.3820694386959076,
                         -0.8565880060195923,
-                        -0.13010570406913757,
+                        -2.3604815006256104,
                         -603.8533325195312,
                         2.511061668395996,
                         -0.1174156665802002,
-                        -0.02005390077829361,
+                        -0.36383387446403503,
                         -93.07520294189453,
                         -0.013581961393356323,
                         2.3883180618286133,
-                        -0.04764927178621292,
+                        -0.8644911646842957,
                         -221.1522674560547
                     ],
-                    "scale": [
-                        2.5399985313415527,
-                        2.5399985313415527,
-                        0.1400003731250763
-                    ],
                     "rotation": 4.2325524541220397e+21,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 649.7769775390625,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1779,12 +2317,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
-                    "height": 652.8107299804688,
+                    "scale": [
+                        2.039999008178711,
+                        2.039999008178711,
+                        2.039999008178711
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         -38.50567626953125,
@@ -1792,31 +2346,21 @@
                         490.21923828125
                     ],
                     "transform": [
-                        2.0159754753112793,
-                        -0.04470684751868248,
-                        -0.012996505945920944,
-                        -38.56474685668945,
-                        -0.04470670223236084,
-                        1.5232409238815308,
-                        -0.14441032707691193,
-                        -428.51116943359375,
-                        0.11933135241270065,
-                        1.325946569442749,
-                        0.16545967757701874,
-                        490.9712829589844
-                    ],
-                    "scale": [
-                        2.0199990272521973,
-                        2.0199990272521973,
-                        0.22000035643577576
+                        2.035935640335083,
+                        -0.04514949023723602,
+                        -0.12051279842853546,
+                        -38.505672454833984,
+                        -0.045149341225624084,
+                        1.5383225679397583,
+                        -1.339074730873108,
+                        -427.8547668457031,
+                        0.12051285058259964,
+                        1.339074730873108,
+                        1.53425931930542,
+                        490.21917724609375
                     ],
                     "rotation": 4.129778474748491e-8,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.8107299804688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1828,12 +2372,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
-                    "height": 652.8107299804688,
+                    "scale": [
+                        2.039999008178711,
+                        2.039999008178711,
+                        2.039999008178711
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         -38.50567626953125,
@@ -1841,31 +2401,21 @@
                         490.21923828125
                     ],
                     "transform": [
-                        2.0159754753112793,
-                        -0.04470684751868248,
-                        -0.012996505945920944,
-                        -38.56474685668945,
-                        -0.04470670223236084,
-                        1.5232409238815308,
-                        -0.14441032707691193,
-                        -428.5111999511719,
-                        -0.11933135241270065,
-                        -1.325946569442749,
-                        -0.16545967757701874,
-                        -490.9713134765625
-                    ],
-                    "scale": [
-                        2.0199990272521973,
-                        2.0199990272521973,
-                        0.22000035643577576
+                        2.035935640335083,
+                        -0.04514949023723602,
+                        -0.12051279842853546,
+                        -38.505672454833984,
+                        -0.045149341225624084,
+                        1.5383225679397583,
+                        -1.339074730873108,
+                        -427.8547668457031,
+                        -0.12051285058259964,
+                        -1.339074730873108,
+                        -1.53425931930542,
+                        -490.21917724609375
                     ],
                     "rotation": 4.129778474748491e-8,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.8107299804688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1877,12 +2427,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
-                    "height": 653.3109741210938,
+                    "scale": [
+                        3.1599979400634766,
+                        3.1599979400634766,
+                        3.1599979400634766
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         200.20669555664062,
@@ -1903,18 +2469,8 @@
                         0.004595753736793995,
                         0.9501450061798096
                     ],
-                    "scale": [
-                        3.1599979400634766,
-                        3.1599979400634766,
-                        3.1599979400634766
-                    ],
                     "rotation": -0.4800000488758087,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 653.3109741210938,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1926,12 +2482,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": true,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
-                    "height": 653.3109741210938,
+                    "scale": [
+                        3.1599979400634766,
+                        3.1599979400634766,
+                        3.1599979400634766
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         200.20669555664062,
@@ -1952,18 +2524,8 @@
                         -0.004595753736793995,
                         -0.9501450061798096
                     ],
-                    "scale": [
-                        3.1599979400634766,
-                        3.1599979400634766,
-                        3.1599979400634766
-                    ],
                     "rotation": -0.4800000488758087,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 653.3109741210938,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1975,12 +2537,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": true,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 649.7076416015625,
+                    "scale": [
+                        1.2135896682739258,
+                        1.2135896682739258,
+                        1.2135896682739258
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -30.074432373046875,
@@ -2001,18 +2579,8 @@
                         -0.007119267713278532,
                         -3.811372995376587
                     ],
-                    "scale": [
-                        1.2135896682739258,
-                        1.2135896682739258,
-                        1.2135896682739258
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 649.7076416015625,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2024,12 +2592,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 649.7076416015625,
+                    "scale": [
+                        1.2135896682739258,
+                        1.2135896682739258,
+                        1.2135896682739258
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         -30.074432373046875,
@@ -2050,18 +2634,8 @@
                         0.007119267713278532,
                         3.811373233795166
                     ],
-                    "scale": [
-                        1.2135896682739258,
-                        1.2135896682739258,
-                        1.2135896682739258
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 649.7076416015625,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2073,12 +2647,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_11.json",
-                    "height": 649.625732421875,
+                    "scale": [
+                        1.6999993324279785,
+                        1.6999993324279785,
+                        1.6999993324279785
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         301.70794677734375,
@@ -2088,29 +2678,19 @@
                     "transform": [
                         1.4639832973480225,
                         -0.35125887393951416,
-                        0.35296952724456787,
+                        0.7895365357398987,
                         301.7079162597656,
                         0.778893768787384,
                         1.2090787887573242,
-                        -0.40518710017204285,
+                        -0.9063389897346497,
                         -346.34197998046875,
                         -0.37426626682281494,
                         1.1422535181045532,
-                        0.5374348759651184,
+                        1.2021560668945312,
                         459.3834533691406
                     ],
-                    "scale": [
-                        1.6999993324279785,
-                        1.6999993324279785,
-                        0.7600002288818359
-                    ],
                     "rotation": 0.40000003576278687,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 649.625732421875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2122,12 +2702,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_11.json",
-                    "height": 649.625732421875,
+                    "scale": [
+                        1.6999993324279785,
+                        1.6999993324279785,
+                        1.6999993324279785
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         301.70794677734375,
@@ -2137,29 +2733,19 @@
                     "transform": [
                         1.4639832973480225,
                         -0.35125887393951416,
-                        0.35296952724456787,
+                        0.7895365357398987,
                         301.7079162597656,
                         0.778893768787384,
                         1.2090787887573242,
-                        -0.40518710017204285,
+                        -0.9063389897346497,
                         -346.3420104980469,
                         0.37426626682281494,
                         -1.1422535181045532,
-                        -0.5374348759651184,
+                        -1.2021560668945312,
                         -459.38348388671875
                     ],
-                    "scale": [
-                        1.6999993324279785,
-                        1.6999993324279785,
-                        0.7600002288818359
-                    ],
                     "rotation": 0.40000003576278687,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 649.625732421875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2171,12 +2757,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
-                    "height": 652.1272583007812,
+                    "scale": [
+                        1.5799994468688965,
+                        1.5799994468688965,
+                        1.5799994468688965
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         -488.531005859375,
@@ -2186,29 +2788,19 @@
                     "transform": [
                         -0.8784639239311218,
                         0.5801001191139221,
-                        -0.9992428421974182,
-                        -486.2938232421875,
+                        -1.1782115697860718,
+                        -488.53094482421875,
                         0.4079335331916809,
                         -1.2268507480621338,
-                        -0.7702449560165405,
-                        -374.84918212890625,
+                        -0.9081991910934448,
+                        -376.5736083984375,
                         -1.248314619064331,
                         -0.8091473579406738,
-                        0.45148083567619324,
-                        219.71868896484375
-                    ],
-                    "scale": [
-                        1.5799994468688965,
-                        1.5799994468688965,
-                        1.3399996757507324
+                        0.5323430299758911,
+                        220.72947692871094
                     ],
                     "rotation": -3.059997081756592,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 655.1272583007812,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2220,12 +2812,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
-                    "height": 652.1272583007812,
+                    "scale": [
+                        1.5799994468688965,
+                        1.5799994468688965,
+                        1.5799994468688965
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         -488.531005859375,
@@ -2235,29 +2843,19 @@
                     "transform": [
                         -0.8784639239311218,
                         0.5801001191139221,
-                        -0.9992428421974182,
-                        -486.2938537597656,
+                        -1.1782115697860718,
+                        -488.53094482421875,
                         0.4079335331916809,
                         -1.2268507480621338,
-                        -0.7702449560165405,
-                        -374.84918212890625,
+                        -0.9081991910934448,
+                        -376.5736083984375,
                         1.248314619064331,
                         0.8091473579406738,
-                        -0.45148083567619324,
-                        -219.71868896484375
-                    ],
-                    "scale": [
-                        1.5799994468688965,
-                        1.5799994468688965,
-                        1.3399996757507324
+                        -0.5323430299758911,
+                        -220.72947692871094
                     ],
                     "rotation": -3.059997081756592,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 655.1272583007812,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2269,12 +2867,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
-                    "height": 648.8231811523438,
+                    "scale": [
+                        2.1999988555908203,
+                        2.1999988555908203,
+                        2.1999988555908203
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         -263.9117431640625,
@@ -2284,29 +2898,19 @@
                     "transform": [
                         -0.6560866832733154,
                         -1.8996769189834595,
-                        -0.5369158983230591,
+                        -0.8948595523834229,
                         -263.9117736816406,
                         0.9389837384223938,
                         0.5731664299964905,
-                        -1.1431200504302979,
+                        -1.9051995277404785,
                         -561.8810424804688,
                         1.8782585859298706,
                         -0.9501071572303772,
-                        0.3839235305786133,
+                        0.6398723721504211,
                         188.71102905273438
                     ],
-                    "scale": [
-                        2.1999988555908203,
-                        2.1999988555908203,
-                        1.3199996948242188
-                    ],
                     "rotation": 1.5999990701675415,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 648.8231811523438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2318,12 +2922,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
-                    "height": 648.8231811523438,
+                    "scale": [
+                        2.1999988555908203,
+                        2.1999988555908203,
+                        2.1999988555908203
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         -263.9117431640625,
@@ -2333,29 +2953,19 @@
                     "transform": [
                         -0.6560866832733154,
                         -1.8996769189834595,
-                        -0.5369158983230591,
+                        -0.8948595523834229,
                         -263.9117736816406,
                         0.9389837384223938,
                         0.5731664299964905,
-                        -1.1431200504302979,
+                        -1.9051995277404785,
                         -561.8810424804688,
                         -1.8782585859298706,
                         0.9501071572303772,
-                        -0.3839235305786133,
+                        -0.6398723721504211,
                         -188.71102905273438
                     ],
-                    "scale": [
-                        2.1999988555908203,
-                        2.1999988555908203,
-                        1.3199996948242188
-                    ],
                     "rotation": 1.5999990701675415,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 648.8231811523438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2367,12 +2977,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 655.0017700195312,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         654.885986328125,
@@ -2393,18 +3019,8 @@
                         -0.0026659828145056963,
                         -1.4588896036148071
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 655.0017700195312,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2416,12 +3032,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 655.0017700195312,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         654.885986328125,
@@ -2442,18 +3074,8 @@
                         0.0026659828145056963,
                         1.4588896036148071
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 655.0017700195312,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2465,12 +3087,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 651.8300170898438,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         595.4581298828125,
@@ -2491,18 +3129,8 @@
                         0.31315508484840393,
                         170.53614807128906
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.8300170898438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2514,12 +3142,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 651.8300170898438,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         595.4581298828125,
@@ -2540,18 +3184,8 @@
                         -0.31315508484840393,
                         -170.53614807128906
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 651.8300170898438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2563,12 +3197,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 652.1414794921875,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         610.468017578125,
@@ -2589,18 +3239,8 @@
                         0.18232117593288422,
                         99.33483123779297
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 652.1414794921875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2612,12 +3252,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 652.1414794921875,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         610.468017578125,
@@ -2638,18 +3294,8 @@
                         -0.18232117593288422,
                         -99.3348388671875
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 652.1414794921875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2661,12 +3307,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 652.5423583984375,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         535.877197265625,
@@ -2687,18 +3349,8 @@
                         0.6663460731506348,
                         363.2713623046875
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 652.5423583984375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2710,12 +3362,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 652.5423583984375,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         535.877197265625,
@@ -2736,18 +3404,8 @@
                         -0.6663460731506348,
                         -363.2713623046875
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 652.5423583984375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2759,12 +3417,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 653.1401977539062,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         546.65234375,
@@ -2785,18 +3459,8 @@
                         0.1700420081615448,
                         92.78660583496094
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 653.1401977539062,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2808,12 +3472,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 653.1401977539062,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         546.65234375,
@@ -2834,18 +3514,8 @@
                         -0.1700420081615448,
                         -92.78660583496094
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 653.1401977539062,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2857,12 +3527,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 653.1165161132812,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         625.3480224609375,
@@ -2883,18 +3569,8 @@
                         0.00571015989407897,
                         3.1157426834106445
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 653.1165161132812,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2906,12 +3582,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
-                    "height": 653.1165161132812,
+                    "scale": [
+                        1.1969537734985352,
+                        1.1969537734985352,
+                        1.1969537734985352
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Subtract",
                     "position": [
                         625.3480224609375,
@@ -2932,18 +3624,8 @@
                         -0.00571015989407897,
                         -3.1157426834106445
                     ],
-                    "scale": [
-                        1.1969537734985352,
-                        1.1969537734985352,
-                        1.1969537734985352
-                    ],
                     "rotation": 0,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 653.1165161132812,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -2955,12 +3637,28 @@
                     "pathable": true,
                     "flooded": false,
                     "mergeable": true,
-                    "no_features": false
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
-                    "height": 644.7857055664062,
+                    "scale": [
+                        1.1499998569488525,
+                        1.1499998569488525,
+                        1.1499998569488525
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         174.59742736816406,
@@ -2970,29 +3668,19 @@
                     "transform": [
                         0.9683941602706909,
                         0.5369734764099121,
-                        0.17546522617340088,
-                        174.05755615234375,
+                        0.31043827533721924,
+                        174.5974578857422,
                         -0.5864366888999939,
                         0.6052134037017822,
-                        0.4422836899757385,
-                        438.7354431152344,
+                        0.7825013995170593,
+                        440.0963134765625,
                         0.20200097560882568,
                         -0.8172367811203003,
-                        0.4428290128707886,
-                        439.27642822265625
-                    ],
-                    "scale": [
-                        1.1499998569488525,
-                        1.1499998569488525,
-                        0.6500003337860107
+                        0.7834662199020386,
+                        440.63897705078125
                     ],
                     "rotation": -0.6199990510940552,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 646.7857055664062,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -3004,12 +3692,28 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": true
+                    "no_features": false,
+                    "biomeColor": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
                 },
                 {
                     "proj": "BP_Bend",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
-                    "height": 644.7857055664062,
+                    "scale": [
+                        1.1499998569488525,
+                        1.1499998569488525,
+                        1.1499998569488525
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
                     "op": "BO_Add",
                     "position": [
                         174.59742736816406,
@@ -3019,29 +3723,19 @@
                     "transform": [
                         0.9683941602706909,
                         0.5369734764099121,
-                        0.17546522617340088,
-                        174.05755615234375,
+                        0.31043827533721924,
+                        174.5974578857422,
                         -0.5864366888999939,
                         0.6052134037017822,
-                        0.4422836899757385,
-                        438.7354431152344,
+                        0.7825013995170593,
+                        440.0962829589844,
                         -0.20200097560882568,
                         0.8172367811203003,
-                        -0.4428290128707886,
-                        -439.27642822265625
-                    ],
-                    "scale": [
-                        1.1499998569488525,
-                        1.1499998569488525,
-                        0.6500003337860107
+                        -0.7834662199020386,
+                        -440.63897705078125
                     ],
                     "rotation": -0.6199990510940552,
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 646.7857055664062,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -3053,791 +3747,13 @@
                     "pathable": false,
                     "flooded": false,
                     "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 635.7498168945312,
-                    "op": "BO_Add",
-                    "position": [
-                        32.614349365234375,
-                        7.883555889129639,
-                        -648.8828735351562
-                    ],
-                    "transform": [
-                        -1.827242136001587,
-                        -1.7883696556091309,
-                        0.22889554500579834,
-                        31.912351608276367,
-                        -1.7893791198730469,
-                        1.830505609512329,
-                        0.05532873794436455,
-                        7.713868141174316,
-                        -0.11358395963907242,
-                        -0.06764955073595047,
-                        -4.553914546966553,
-                        -634.9014282226562
-                    ],
-                    "scale": [
-                        2.5599985122680664,
-                        2.5599985122680664,
-                        4.559999465942383
-                    ],
-                    "rotation": -0.29999998211860657,
-                    "weight": [
+                    "no_features": false,
+                    "biomeColor": [
                         0,
                         0,
                         0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
                         1
-                    ],
-                    "mirrored": false,
-                    "twinId": 55,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 635.7498168945312,
-                    "op": "BO_Add",
-                    "position": [
-                        32.614349365234375,
-                        7.883555889129639,
-                        -648.8828735351562
-                    ],
-                    "transform": [
-                        -1.827242136001587,
-                        -1.7883696556091309,
-                        0.22889554500579834,
-                        31.912351608276367,
-                        -1.7893791198730469,
-                        1.830505609512329,
-                        0.05532873794436455,
-                        7.713868141174316,
-                        0.11358395963907242,
-                        0.06764955073595047,
-                        4.553914546966553,
-                        634.9014282226562
-                    ],
-                    "scale": [
-                        2.5599985122680664,
-                        2.5599985122680664,
-                        4.559999465942383
-                    ],
-                    "rotation": -0.29999998211860657,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 55,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 634.8128051757812,
-                    "op": "BO_Add",
-                    "position": [
-                        591.9131469726562,
-                        -12.035751342773438,
-                        -279.7745666503906
-                    ],
-                    "transform": [
-                        -0.9096083641052246,
-                        -0.5113250613212585,
-                        4.013504505157471,
-                        573.8342895507812,
-                        -1.2771817445755005,
-                        2.078554630279541,
-                        -0.08160917460918427,
-                        -11.668142318725586,
-                        -1.8694955110549927,
-                        -1.171217918395996,
-                        -1.897029161453247,
-                        -271.2294006347656
-                    ],
-                    "scale": [
-                        2.4399986267089844,
-                        2.4399986267089844,
-                        4.439999580383301
-                    ],
-                    "rotation": -0.5799999833106995,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 56,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 634.8128051757812,
-                    "op": "BO_Add",
-                    "position": [
-                        591.9131469726562,
-                        -12.035751342773438,
-                        -279.7745666503906
-                    ],
-                    "transform": [
-                        -0.9096083641052246,
-                        -0.5113250613212585,
-                        4.013504505157471,
-                        573.8342895507812,
-                        -1.2771817445755005,
-                        2.078554630279541,
-                        -0.08160917460918427,
-                        -11.668142318725586,
-                        1.8694955110549927,
-                        1.171217918395996,
-                        1.897029161453247,
-                        271.2294006347656
-                    ],
-                    "scale": [
-                        2.4399986267089844,
-                        2.4399986267089844,
-                        4.439999580383301
-                    ],
-                    "rotation": -0.5799999833106995,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 56,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 639.12646484375,
-                    "op": "BO_Add",
-                    "position": [
-                        -303.73553466796875,
-                        -357.79046630859375,
-                        -451.327392578125
-                    ],
-                    "transform": [
-                        0.5002780556678772,
-                        -1.4367915391921997,
-                        -1.7352946996688843,
-                        -298.1378173828125,
-                        -1.4367915391921997,
-                        0.02750599943101406,
-                        -2.0441200733184814,
-                        -351.1965637207031,
-                        0.8023402094841003,
-                        0.9451303482055664,
-                        -2.5785129070281982,
-                        -443.0096130371094
-                    ],
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        3.7200002670288086
-                    ],
-                    "rotation": 0,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 59,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 639.12646484375,
-                    "op": "BO_Add",
-                    "position": [
-                        -303.73553466796875,
-                        -357.79046630859375,
-                        -451.327392578125
-                    ],
-                    "transform": [
-                        0.5002780556678772,
-                        -1.4367915391921997,
-                        -1.7352946996688843,
-                        -298.1378173828125,
-                        -1.4367915391921997,
-                        0.02750599943101406,
-                        -2.0441200733184814,
-                        -351.1965637207031,
-                        -0.8023402094841003,
-                        -0.9451303482055664,
-                        2.5785129070281982,
-                        443.0096130371094
-                    ],
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        3.7200002670288086
-                    ],
-                    "rotation": 0,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 59,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 633.896240234375,
-                    "op": "BO_Add",
-                    "position": [
-                        485.5668029785156,
-                        -397.522216796875,
-                        -176.54937744140625
-                    ],
-                    "transform": [
-                        -0.8695433735847473,
-                        1.3763716220855713,
-                        3.3071465492248535,
-                        472.1594543457031,
-                        -0.04986053705215454,
-                        1.9332029819488525,
-                        -2.7074832916259766,
-                        -386.5458679199219,
-                        -2.27925443649292,
-                        -0.5673807263374329,
-                        -1.2024593353271484,
-                        -171.6744384765625
-                    ],
-                    "scale": [
-                        2.4399986267089844,
-                        2.4399986267089844,
-                        4.439999580383301
-                    ],
-                    "rotation": -0.9299996495246887,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 60,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 633.896240234375,
-                    "op": "BO_Add",
-                    "position": [
-                        485.5668029785156,
-                        -397.522216796875,
-                        -176.54937744140625
-                    ],
-                    "transform": [
-                        -0.8695433735847473,
-                        1.3763716220855713,
-                        3.3071465492248535,
-                        472.1594543457031,
-                        -0.04986053705215454,
-                        1.9332029819488525,
-                        -2.7074832916259766,
-                        -386.5458679199219,
-                        2.27925443649292,
-                        0.5673807263374329,
-                        1.2024593353271484,
-                        171.6744384765625
-                    ],
-                    "scale": [
-                        2.4399986267089844,
-                        2.4399986267089844,
-                        4.439999580383301
-                    ],
-                    "rotation": -0.9299996495246887,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 60,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_15.json",
-                    "height": 646.447509765625,
-                    "op": "BO_Add",
-                    "position": [
-                        -485.3741760253906,
-                        379.5172119140625,
-                        198.91427612304688
-                    ],
-                    "transform": [
-                        0.4966704845428467,
-                        -0.5853865146636963,
-                        -0.25488921999931335,
-                        -484.62445068359375,
-                        0.9089342951774597,
-                        -0.23893380165100098,
-                        0.19929952919483185,
-                        378.9309997558594,
-                        -0.5222609043121338,
-                        -0.9725393056869507,
-                        0.104457788169384,
-                        198.60707092285156
-                    ],
-                    "scale": [
-                        1.1599998474121094,
-                        1.1599998474121094,
-                        0.3400003910064697
-                    ],
-                    "rotation": 1.3999992609024048,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 66,
-                    "pathable": false,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": true
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_15.json",
-                    "height": 646.447509765625,
-                    "op": "BO_Add",
-                    "position": [
-                        -485.3741760253906,
-                        379.5172119140625,
-                        198.91427612304688
-                    ],
-                    "transform": [
-                        0.4966704845428467,
-                        -0.5853865146636963,
-                        -0.25488921999931335,
-                        -484.62445068359375,
-                        0.9089342951774597,
-                        -0.23893380165100098,
-                        0.19929952919483185,
-                        378.9309997558594,
-                        0.5222609043121338,
-                        0.9725393056869507,
-                        -0.104457788169384,
-                        -198.60707092285156
-                    ],
-                    "scale": [
-                        1.1599998474121094,
-                        1.1599998474121094,
-                        0.3400003910064697
-                    ],
-                    "rotation": 1.3999992609024048,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 66,
-                    "pathable": false,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_15.json",
-                    "height": 645.3035888671875,
-                    "op": "BO_Add",
-                    "position": [
-                        -355.8414611816406,
-                        529.6744995117188,
-                        114.53976440429688
-                    ],
-                    "transform": [
-                        0.6011956930160522,
-                        -0.028026551008224487,
-                        -0.395194411277771,
-                        -354.19482421875,
-                        0.39293378591537476,
-                        0.13402673602104187,
-                        0.5882518887519836,
-                        527.2235107421875,
-                        0.050666600465774536,
-                        -0.7068605422973633,
-                        0.1272067129611969,
-                        114.00960540771484
-                    ],
-                    "scale": [
-                        0.7200002670288086,
-                        0.7200002670288086,
-                        0.7200002670288086
-                    ],
-                    "rotation": 0.5200000405311584,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 67,
-                    "pathable": false,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": true
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_15.json",
-                    "height": 645.3035888671875,
-                    "op": "BO_Add",
-                    "position": [
-                        -355.8414611816406,
-                        529.6744995117188,
-                        114.53976440429688
-                    ],
-                    "transform": [
-                        0.6011956930160522,
-                        -0.028026551008224487,
-                        -0.395194411277771,
-                        -354.19482421875,
-                        0.39293378591537476,
-                        0.13402673602104187,
-                        0.5882518887519836,
-                        527.2235107421875,
-                        -0.050666600465774536,
-                        0.7068605422973633,
-                        -0.1272067129611969,
-                        -114.00960540771484
-                    ],
-                    "scale": [
-                        0.7200002670288086,
-                        0.7200002670288086,
-                        0.7200002670288086
-                    ],
-                    "rotation": 0.5200000405311584,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 67,
-                    "pathable": false,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": true
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 644.757080078125,
-                    "op": "BO_Add",
-                    "position": [
-                        -598.4474487304688,
-                        35.15870666503906,
-                        -253.19818115234375
-                    ],
-                    "transform": [
-                        -0.6610037088394165,
-                        0.1398836076259613,
-                        -3.4209766387939453,
-                        -592.9297485351562,
-                        0.1398836076259613,
-                        1.7117812633514404,
-                        0.20098191499710083,
-                        34.83454513549805,
-                        1.5817410945892334,
-                        -0.09292708337306976,
-                        -1.4473876953125,
-                        -250.86380004882812
-                    ],
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        3.7200002670288086
-                    ],
-                    "rotation": 0,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 69,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 644.757080078125,
-                    "op": "BO_Add",
-                    "position": [
-                        -598.4474487304688,
-                        35.15870666503906,
-                        -253.19818115234375
-                    ],
-                    "transform": [
-                        -0.6610037088394165,
-                        0.1398836076259613,
-                        -3.4209766387939453,
-                        -592.9297485351562,
-                        0.1398836076259613,
-                        1.7117812633514404,
-                        0.20098191499710083,
-                        34.83454132080078,
-                        -1.5817410945892334,
-                        0.09292708337306976,
-                        1.4473876953125,
-                        250.86378479003906
-                    ],
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        3.7200002670288086
-                    ],
-                    "rotation": 0,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 69,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 638.1499633789062,
-                    "op": "BO_Add",
-                    "position": [
-                        -148.58602905273438,
-                        -617.962646484375,
-                        -132.0606231689453
-                    ],
-                    "transform": [
-                        1.606870412826538,
-                        -0.47049811482429504,
-                        -0.8514828681945801,
-                        -146.06820678710938,
-                        -0.47049811482429504,
-                        -0.2367812991142273,
-                        -3.5412790775299072,
-                        -607.4911499023438,
-                        0.39369621872901917,
-                        1.6373648643493652,
-                        -0.7567829489707947,
-                        -129.82284545898438
-                    ],
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        3.7200002670288086
-                    ],
-                    "rotation": 0,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 71,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
-                },
-                {
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
-                    "height": 638.1499633789062,
-                    "op": "BO_Add",
-                    "position": [
-                        -148.58602905273438,
-                        -617.962646484375,
-                        -132.0606231689453
-                    ],
-                    "transform": [
-                        1.606870412826538,
-                        -0.47049811482429504,
-                        -0.8514828681945801,
-                        -146.06820678710938,
-                        -0.47049811482429504,
-                        -0.2367812991142273,
-                        -3.5412790775299072,
-                        -607.4911499023438,
-                        -0.39369621872901917,
-                        -1.6373648643493652,
-                        0.7567829489707947,
-                        129.82284545898438
-                    ],
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        3.7200002670288086
-                    ],
-                    "rotation": 0,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": true,
-                    "twinId": 71,
-                    "pathable": true,
-                    "flooded": false,
-                    "mergeable": false,
-                    "no_features": false
+                    ]
                 }
             ],
             "metal_spots": [
@@ -4152,6 +4068,16 @@
                     -382.06005859375
                 ],
                 [
+                    538.1644287109375,
+                    -304.92913818359375,
+                    192.10440063476562
+                ],
+                [
+                    538.1644287109375,
+                    -304.92913818359375,
+                    -192.10440063476562
+                ],
+                [
                     426.2939453125,
                     466.38177490234375,
                     93.39945220947266
@@ -4322,6 +4248,68 @@
                     -523.08544921875
                 ]
             ],
+            "energy_spots": [
+                [
+                    -115.96691131591797,
+                    307.28363037109375,
+                    -559.5892333984375
+                ],
+                [
+                    -115.96691131591797,
+                    307.28363037109375,
+                    559.5892333984375
+                ],
+                [
+                    -198.50967407226562,
+                    -57.3135986328125,
+                    -617.1678466796875
+                ],
+                [
+                    -198.50967407226562,
+                    -57.3135986328125,
+                    617.1678466796875
+                ],
+                [
+                    189.13221740722656,
+                    -28.353515625,
+                    -623.3828125
+                ],
+                [
+                    189.13221740722656,
+                    -28.353515625,
+                    623.3828125
+                ],
+                [
+                    209.16802978515625,
+                    -645.4757080078125,
+                    1.252410888671875
+                ],
+                [
+                    -455.120361328125,
+                    -270.9005126953125,
+                    -383.3899841308594
+                ],
+                [
+                    -455.120361328125,
+                    -270.9005126953125,
+                    383.3899841308594
+                ],
+                [
+                    -580.189697265625,
+                    294.7796325683594,
+                    -2.6072120666503906
+                ],
+                [
+                    298.5506591796875,
+                    463.67333984375,
+                    -342.59002685546875
+                ],
+                [
+                    298.5506591796875,
+                    463.67333984375,
+                    342.59002685546875
+                ]
+            ],
             "landing_zones": {
                 "list": [
                     [
@@ -4333,37 +4321,177 @@
                         -136.2882080078125,
                         384.3734130859375,
                         -505.10028076171875
+                    ],
+                    [
+                        76.49163055419922,
+                        -186.36270141601562,
+                        616.7236328125
+                    ],
+                    [
+                        76.49163055419922,
+                        -186.36270141601562,
+                        -616.7236328125
+                    ],
+                    [
+                        -135.63658142089844,
+                        388.95526123046875,
+                        501.700927734375
+                    ],
+                    [
+                        -135.63658142089844,
+                        388.95526123046875,
+                        -501.700927734375
+                    ],
+                    [
+                        110.43658447265625,
+                        251.03082275390625,
+                        -584.2183837890625
+                    ],
+                    [
+                        110.43658447265625,
+                        251.03082275390625,
+                        584.2183837890625
+                    ],
+                    [
+                        -274.2040710449219,
+                        144.988037109375,
+                        569.5343017578125
+                    ],
+                    [
+                        -274.2040710449219,
+                        144.988037109375,
+                        -569.5343017578125
                     ]
                 ],
                 "rules": [
                     {
-                        "min": 0,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 0,
+                        "min": 2,
                         "max": 10
+                    },
+                    {
+                        "min": 4,
+                        "max": 10
+                    },
+                    {
+                        "min": 4,
+                        "max": 10
+                    },
+                    {
+                        "min": 10,
+                        "max": 10
+                    },
+                    {
+                        "min": 10,
+                        "max": 10
+                    },
+                    {
+                        "min": 6,
+                        "max": 32
+                    },
+                    {
+                        "min": 6,
+                        "max": 32
+                    },
+                    {
+                        "min": 8,
+                        "max": 32
+                    },
+                    {
+                        "min": 8,
+                        "max": 32
                     }
                 ]
             },
             "planet": {
                 "seed": 1759374720,
                 "radius": 650,
-                "heightRange": 16.000001907348633,
+                "heightRange": 10,
                 "waterHeight": 0,
                 "waterDepth": 50,
-                "temperature": 75,
+                "temperature": 0,
                 "metalDensity": 25,
                 "metalClusters": 25,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
-                "biome": "halloween_theme",
+                "biome": "moon",
                 "symmetryType": "terrain and CSG",
                 "symmetricalMetal": true,
                 "symmetricalStarts": true,
                 "numArmies": 2,
                 "landingZonesPerArmy": 0,
                 "landingZoneSize": 125,
+                "heightAdjustments": []
+            }
+        },
+        {
+            "name": "asteroid belt",
+            "mass": 5000,
+            "position_x": 0,
+            "position_y": 50000,
+            "velocity_x": -100,
+            "velocity_y": -0.0000043711384023481514,
+            "required_thrust_to_move": 1,
+            "starting_planet": false,
+            "respawn": true,
+            "start_destroyed": true,
+            "min_spawn_delay": 360,
+            "max_spawn_delay": 540,
+            "planet": {
+                "seed": 8239,
+                "radius": 250,
+                "heightRange": 100,
+                "waterHeight": 0,
+                "waterDepth": 50,
+                "temperature": 50,
+                "metalDensity": 1,
+                "metalClusters": 1,
+                "metalSpotLimit": 5,
+                "biomeScale": 100.00000013739177,
+                "biome": "asteroid",
+                "symmetryType": "none",
+                "symmetricalMetal": false,
+                "symmetricalStarts": false,
+                "numArmies": 2,
+                "landingZonesPerArmy": 0,
+                "landingZoneSize": 0,
+                "heightAdjustments": []
+            }
+        },
+        {
+            "name": "asteroid belt",
+            "mass": 5000,
+            "position_x": 0,
+            "position_y": -50000,
+            "velocity_x": 100,
+            "velocity_y": 0.0000043711384023481514,
+            "required_thrust_to_move": 1,
+            "starting_planet": false,
+            "respawn": true,
+            "start_destroyed": true,
+            "min_spawn_delay": 360,
+            "max_spawn_delay": 540,
+            "planet": {
+                "seed": 8239,
+                "radius": 250,
+                "heightRange": 100,
+                "waterHeight": 0,
+                "waterDepth": 50,
+                "temperature": 50,
+                "metalDensity": 1,
+                "metalClusters": 1,
+                "metalSpotLimit": 5,
+                "biomeScale": 100.00000013739177,
+                "biome": "asteroid",
+                "symmetryType": "none",
+                "symmetricalMetal": false,
+                "symmetricalStarts": false,
+                "numArmies": 2,
+                "landingZonesPerArmy": 0,
+                "landingZoneSize": 0,
                 "heightAdjustments": []
             }
         }

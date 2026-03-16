@@ -2,5 +2,8 @@
 	"coui://ui/mods/medieval_mode/systems/alloy_haunted_mayhem.pas",
 	"coui://ui/mods/medieval_mode/systems/roc_haunted_mayhem.pas",
 	"coui://ui/mods/medieval_mode/systems/superbowl_haunted_mayhem.pas",
-	"coui://ui/mods/medieval_mode/systems/lock_haunted_mayhem.pas"
+	"coui://ui/mods/medieval_mode/systems/lock_haunted_mayhem.pas",
+	"coui://ui/mods/medieval_mode/systems/amplus_haunted_mayhem.pas",
+	"coui://ui/mods/medieval_mode/systems/mukden_haunted_mayhem.pas",
+	"coui://ui/mods/medieval_mode/systems/shoreline_haunted_mayhem.pas"
 ]);
