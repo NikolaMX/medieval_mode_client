@@ -6,7 +6,7 @@
     "display_name": "Haunted Mayhem Client",
     "description": "Adds the client assets necessary for HM.",
     "forum": "https://steamcommunity.com/app/386070/discussions/0/805719856669440922/",
-    "identifier": "medieval_mode_client_dev",
+    "identifier": "medieval_mode_client",
     "signature": "not yet implemented",
     "version": "1.0",
     "enabled": true,
