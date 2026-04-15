@@ -19,6 +19,9 @@
             "coui://ui/mods/com.flubb.gallery/main.js",
             "coui://ui/mods/eventboard/eventboard.js",
             "coui://ui/mods/eventboard/css/eventboard.css"
+        ],
+        "LiveGame_FloatZone": [
+            "coui://ui/mods/com.pa.nik.medieval/floatzone/research_map.js"
         ]
     },
     "category": [
