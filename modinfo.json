@@ -2,13 +2,13 @@
     "author": "NikolaMX",
     "build": "124632",
     "context": "client",
-    "date": "2026-04-02",
+    "date": "2026-04-15",
     "display_name": "Haunted Mayhem Client",
     "description": "Adds the client assets necessary for HM.",
     "forum": "https://steamcommunity.com/app/386070/discussions/0/805719856669440922/",
     "identifier": "medieval_mode_client",
     "signature": "not yet implemented",
-    "version": "1.0.1",
+    "version": "1.0.8",
     "enabled": true,
     "icon": "https://i.imgur.com/jtTEm7Y.gif",
     "scenes": {
@@ -27,24 +27,13 @@
     "category": [
         "Main-Menu",
         "Background",
-        "biomes",
-	    "map",
-	    "pack",
-	    "maps",
-	    "system",
-	    "planets",
-	    "planet",
-	    "systems"
-    
+        "biomes"
     ],
     "authors": [
         "NikolaMX"
     ],
-    "load_planet": [
-        "coui://ui/mods/medieval_mode_client/maplist.js"
-    ],
     "dependencies": [
-        "com.pa.conundrum.cShareSystems"
+        "com.pa.nik.haunted-mayhem-maps"
     ],
     "priority": 100
 }
